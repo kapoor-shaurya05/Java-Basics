@@ -7,4 +7,5 @@ This repository contains my Java fundamentals practice. Each folder represents a
 -  Methods
 -  Arrays
 -  Strings
-## Goal To build strong fundamentals before moving to DSA and backend development.
+## Goal 
+To build strong fundamentals before moving to DSA and backend development.
